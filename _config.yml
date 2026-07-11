@@ -5,8 +5,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &amp;name "Junteng Liu"
-description              : &amp;description "Junteng Liu's academic homepage"
+name                     : "Junteng Liu"
+description              : "Junteng Liu's academic homepage"
 url                      : https://monshirughf.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "monshirughf/LJT-Homepage"
@@ -127,7 +127,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &amp;twitter
+  username               :
 facebook:
   username               :
   app_id                 :
